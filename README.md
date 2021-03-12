@@ -2,8 +2,8 @@
 <h3 align="center">I'm a passionate Electronics Engineer from India. I love to create stuff related to maths and science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=two-ticks&label=Profile%20views&color=0e75b6&style=flat" alt="two-ticks" /> </p>
-
-- 📄 Know about my experiences [http://google.com](http://google.com)
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=two-ticks&show_icons=true&locale=en" alt="two-ticks" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=two-ticks&show_icons=true&locale=en&layout=compact" alt="two-ticks" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=two-ticks&show_icons=true&locale=en" alt="two-ticks" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=two-ticks&" alt="two-ticks" /></p>
 
