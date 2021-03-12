@@ -9,7 +9,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=two-ticks&show_icons=true&locale=en&layout=compact" alt="two-ticks" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=two-ticks&show_icons=true&locale=en&layout=compact" alt="two-ticks" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
