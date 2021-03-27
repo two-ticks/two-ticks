@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=two-ticks&label=Profile%20views&color=0e75b6&style=flat" alt="two-ticks" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=two-ticks&show_icons=true&locale=en" alt="two-ticks" /></p>
 <p align="center">
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4564da8c69d22b0ac20dbd2eb669798fb36c621747501725973c8735470d9514/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d53616d72696468692d3938267468656d653d7265646963616c"><img src="https://camo.githubusercontent.com/4564da8c69d22b0ac20dbd2eb669798fb36c621747501725973c8735470d9514/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d53616d72696468692d3938267468656d653d7265646963616c" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Samridhi-98&amp;theme=redical" style="max-width:100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4564da8c69d22b0ac20dbd2eb669798fb36c621747501725973c8735470d9514/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d53616d72696468692d3938267468656d653d7265646963616c"><img src="https://camo.githubusercontent.com/4564da8c69d22b0ac20dbd2eb669798fb36c621747501725973c8735470d9514/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d53616d72696468692d3938267468656d653d7265646963616c" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=two-ticks&amp;theme=redical" style="max-width:100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
