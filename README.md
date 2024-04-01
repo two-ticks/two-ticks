@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Siddheshwar </h1>
-<h3 align="center">I am a research student at the Signal Processing and Communication Research Centre (SPCRC), IIIT Hyderabad. I love creating things related to math and science. My research interests include Error Correcting Codes and Information Theory. I write about stuff I like at <a href="https://two-ticks.github.io/">two-ticks.github.io</a>.</h3>
+<h3 align="center">I am a research student at the Signal Processing and Communication Research Centre (SPCRC), IIIT Hyderabad. I love creating things related to math and science. My research interests include Coding Theory and Information Theory. I write about stuff I like at <a href="https://two-ticks.github.io/">two-ticks.github.io</a>.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=two-ticks&show_icons=true&rank_icon=github&locale=en" alt="two-ticks" /></p>
 
